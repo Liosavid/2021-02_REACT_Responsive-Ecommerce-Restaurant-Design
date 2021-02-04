@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/2021-02_REACT_Responsive-Ecommerce-Restaurant-Design/static/js/main.cb691b53.chunk.js",
+    "main.js.map": "/2021-02_REACT_Responsive-Ecommerce-Restaurant-Design/static/js/main.cb691b53.chunk.js.map",
+    "runtime-main.js": "/2021-02_REACT_Responsive-Ecommerce-Restaurant-Design/static/js/runtime-main.edd8f003.js",
+    "runtime-main.js.map": "/2021-02_REACT_Responsive-Ecommerce-Restaurant-Design/static/js/runtime-main.edd8f003.js.map",
+    "static/js/2.8fc93ee9.chunk.js": "/2021-02_REACT_Responsive-Ecommerce-Restaurant-Design/static/js/2.8fc93ee9.chunk.js",
+    "static/js/2.8fc93ee9.chunk.js.map": "/2021-02_REACT_Responsive-Ecommerce-Restaurant-Design/static/js/2.8fc93ee9.chunk.js.map",
+    "static/js/3.3cbdffd5.chunk.js": "/2021-02_REACT_Responsive-Ecommerce-Restaurant-Design/static/js/3.3cbdffd5.chunk.js",
+    "static/js/3.3cbdffd5.chunk.js.map": "/2021-02_REACT_Responsive-Ecommerce-Restaurant-Design/static/js/3.3cbdffd5.chunk.js.map",
+    "index.html": "/2021-02_REACT_Responsive-Ecommerce-Restaurant-Design/index.html",
+    "static/js/2.8fc93ee9.chunk.js.LICENSE.txt": "/2021-02_REACT_Responsive-Ecommerce-Restaurant-Design/static/js/2.8fc93ee9.chunk.js.LICENSE.txt",
+    "static/media/featured3.66d68644.jpg": "/2021-02_REACT_Responsive-Ecommerce-Restaurant-Design/static/media/featured3.66d68644.jpg",
+    "static/media/pizza-3.f2f9b9a4.jpg": "/2021-02_REACT_Responsive-Ecommerce-Restaurant-Design/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "/2021-02_REACT_Responsive-Ecommerce-Restaurant-Design/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/2021-02_REACT_Responsive-Ecommerce-Restaurant-Design/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/2021-02_REACT_Responsive-Ecommerce-Restaurant-Design/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/2021-02_REACT_Responsive-Ecommerce-Restaurant-Design/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/2021-02_REACT_Responsive-Ecommerce-Restaurant-Design/static/media/sweet-3.badeecbe.jpg",
+    "static/media/sweet3.c495c742.jpg": "/2021-02_REACT_Responsive-Ecommerce-Restaurant-Design/static/media/sweet3.c495c742.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edd8f003.js",
+    "static/js/2.8fc93ee9.chunk.js",
+    "static/js/main.cb691b53.chunk.js"
+  ]
+}
